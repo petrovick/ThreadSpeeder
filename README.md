@@ -1,18 +1,18 @@
-.NET ThreadSpeeder.Core
+.NET ThreadSpeeder
 ===============
 
 ## Before we start
 
 README.md is still under construction. Tests were made before publishing this library and they will be available here at this page soon.
 
-ThreadSpeeder.Core is an open-source, .NET Core platform API that commonly use programming patterns, such as Generic and ThreadPolling. 
+ThreadSpeeder is an open-source, .NET Core platform API that commonly use programming patterns, such as Generic and ThreadPolling. 
 It will speed up your processing list, use this library instead of using a for/foreach.
 You might not be making the use it when a value of list depends on another value of that same list.
 
 ## Get Started
 
 Follow the Get Started guide below to make use of the library.
-ThreadSpeeder.Core API can then be added to the project using the [NuGet Package Manager](https://www.nuget.org/packages/ThreadSpeeder.Core/).
+ThreadSpeeder API can then be added to the project using the [NuGet Package Manager](https://www.nuget.org/packages/ThreadSpeeder/).
 
 ## How to Engage, Contribute, and Give Feedback
 
@@ -23,8 +23,8 @@ and make pull-requests.
 
 Issues and bugs can be reported making pull-requests, via email([petrovickg@hotmail.com][email] or Whatsapp([+55 34 9 9838-9076][whatsapp]).
 
- - GitHub: <https://github.com/petrovick/ThreadSpeeder.Core>
- - NuGet: <https://www.nuget.org/packages/ThreadSpeeder.Core/>
+ - GitHub: <https://github.com/petrovick/ThreadSpeeder>
+ - NuGet: <https://www.nuget.org/packages/ThreadSpeeder/>
 
  
  [whatsapp]: https://api.whatsapp.com/send?phone=5534998389076
