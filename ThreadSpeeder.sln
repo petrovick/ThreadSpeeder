@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSpeeder", "ThreadSpeeder\ThreadSpeeder.csproj", "{5C275A04-617A-4BC5-8337-3FC2B23C9EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSpeeder", "ThreadSpeeder\ThreadSpeeder.csproj", "{5C275A04-617A-4BC5-8337-3FC2B23C9EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSpeeder.Example", "ThreadSpeeder.Example\ThreadSpeeder.Example.csproj", "{491D0D06-3711-490E-8BC1-EC8D6F604095}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSpeeder.Example", "ThreadSpeeder.Example\ThreadSpeeder.Example.csproj", "{491D0D06-3711-490E-8BC1-EC8D6F604095}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
