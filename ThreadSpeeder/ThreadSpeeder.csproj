@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Gabriel Petrovick Oliveira dos Santos</Authors>
+    <Company>Gabriel Petrovick Oliveira dos Santos</Company>
+    <Description>Speedup list processing.</Description>
+    <Copyright>Copyright © 2019 by Gabriel Petrovick Oliveira dos Santos</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
